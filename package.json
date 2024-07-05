@@ -1,4 +1,7 @@
-{
+{   
+    "engines" :{
+    "node": "20.11.1"
+    },
     "name": "sorting-visualizer",
     "version": "1.0.0",
     "description": "Sorting Visualizer is an interactive platform used to visualize multiple sorting algorithms.",
